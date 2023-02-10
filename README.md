@@ -1,7 +1,7 @@
 # bayesianOptimisation2D
 
 ## BayesianOptimization Library Interaction Modules
-This repository contains two modules for interacting with the BayesianOptimization library. The purpose of these modules is to provide an easy and efficient way for users to interact with the BayesianOptimization library and visualize the results of the optimisation process.
+This repository contains two modules for interacting with the BayesianOptimization library. The purpose of these modules is to provide an easy and efficient way for users to interact with the BayesianOptimization library and visualise the results of the optimisation process.
 
 ## Contents
 - **`bayesianOptimisation.py`**: This module contains mostly wrapper functions that can be called from an external program. The functions provide a simple interface to perform Bayesian Optimization, which can be used to optimize any user-defined objective function.
